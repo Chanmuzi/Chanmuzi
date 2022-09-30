@@ -1,4 +1,4 @@
-# Chanmuzi 👋
+# chanmuzi 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chanmuzi)](https://solved.ac/chanmzui/)
 
