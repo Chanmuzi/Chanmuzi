@@ -4,8 +4,66 @@ Hello, I'm chanmuzi.
 
 #### About me
 - 💼 Data Science Team manager at [Dacon](https://dacon.io/)
-- 🤖 A 5th member of NLP team of AI Society, DIYA
+- 🤖 5th member of NLP team of AI Society, DIYA
+- 🌏 Open Source Contribution Academy, [OSCA](https://www.contribution.ac/), PyTorch and PyTorch Litghtning mentee
+- 🧑🏻‍💻 Naver Connect Foundation, [Boostcamp AI Tech 4th NLP](https://boostcamp.connect.or.kr/program_ai.html) completion
 - ❤️ I love NLP, especially (s)LLM.
+- 📫 How to reach me: chanmuzi@naver.com
+
+#### My projects
+<details>
+<summary>list open/close</summary>
+<div markdown="1">
+  
+1. ***Visual Question Answering(VQA)*** - 2023.07
+- regression, multi-modal task
+- English data
+- Dacon's competition
+- design and operate the competition (as manager)
+
+2. ***AI generated Image Classification*** - 2023.06
+- binary classification
+- AI-connect's competition
+- indivisual participation
+
+3. ***ChatGPT Prompt Engineering*** - 2023.04
+- NLP, multi-classification task
+- English data
+- Dacon's competition
+- indivisual participation
+
+4. ***Document Visual Question Answering(DocVQA)*** - 2022.01
+- multi-modal QA task
+- English data
+- corporate associated project with Upstage
+- Naver Connect Foundation, Boostcamp AI Tech 4th NLP track
+  
+5. ***Open Domain Question Answering(ODQA)*** - 2022.12
+- Korean data
+- Naver Connect Foundation, Boostcamp AI Tech 4th NLP track
+
+6. ***Korean Law Dataset Build for Relation Extractoin*** - 2022.11
+- Dataset build project
+- Korean law data
+- Naver Connect Foundation, Boostcamp AI Tech 4th NLP track
+
+7. ***Relation Extraction(RE), classification*** - 2022.10
+- multi-classification task
+- Korean data
+- Naver Connect Foundation, Boostcamp AI Tech 4th NLP track
+
+7. ***Semantic Text Similarity(STS)*** - 2022.10
+- regression task
+- Korean data
+- Naver Connect Foundation Boostcamp AI Tech 4th NLP track
+
+</div>
+</details>
+
+
+
+
+
 
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chanmuzi)](https://solved.ac/chanmzui/)
