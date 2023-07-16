@@ -1,7 +1,7 @@
 Hello, I'm chanmuzi ☺️  
 I'm a super passionate Data Scientist/AI researcher from Korea 🇰🇷
 
-
+---
 #### About me
 - 💼 Data Science Team manager at [Dacon](https://dacon.io/) - 2023.05 ~
 - 🤖 5th member of NLP team of AI Society, DIYA - 2023.01 ~
@@ -11,6 +11,7 @@ I'm a super passionate Data Scientist/AI researcher from Korea 🇰🇷
 - ❤️ I love NLP, especially (s)LLM.
 - 📫 How to reach me: chanmuzi@naver.com
 
+---
 #### My projects
 <details>
 <summary>open/close</summary>
@@ -63,8 +64,9 @@ I'm a super passionate Data Scientist/AI researcher from Korea 🇰🇷
 </div>
 </details>
 
+---
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2508chanmuzi%2Fhit-counter&count_bg=%23C8503D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
