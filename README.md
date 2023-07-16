@@ -1,4 +1,12 @@
-# chanmuzi 👋
+Hello, I'm chanmuzi.  
+
+
+
+#### About me
+- 💼 Data Science Team manager at [Dacon](https://dacon.io/)
+- 🤖 A 5th member of NLP team of AI Society, DIYA
+- ❤️ I love NLP, especially (s)LLM.
+
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chanmuzi)](https://solved.ac/chanmzui/)
 
