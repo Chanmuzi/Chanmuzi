@@ -18,7 +18,7 @@ I'm a super passionate Data Scientist/AI researcher from Korea 🇰🇷
 <div markdown="1">
   
 ---  
-1. ***Visual Question Answering(VQA)*** - 2023.07
+1. ***[Visual Question Answering(VQA)](https://dacon.io/competitions/official/236118/overview/description)*** - 2023.07
 - regression, multi-modal task
 - English data
 - Dacon's competition
