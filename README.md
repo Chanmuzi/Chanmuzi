@@ -22,7 +22,7 @@ I'm a super passionate Data Scientist/AI researcher from Korea 🇰🇷
 - regression, multi-modal task
 - English data
 - Dacon's competition
-- design and operate the competition (as manager)
+- __design and operate the competition (as manager)__
   
 ---
 2. ***AI generated Image Classification*** - 2023.06
