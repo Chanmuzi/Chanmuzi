@@ -4,7 +4,7 @@ I'm a super passionate Data Scientist/AI researcher from Korea 🇰🇷
 ---
 #### About me
 - 💼 Data Science Team manager at [Dacon](https://dacon.io/) - 2023.05 ~
-- 🤖 5th member of NLP team of AI Society, DIYA - 2023.01 ~
+- 🤖 5th member of NLP team of AI Society, [DIYA](https://doityourselfai.github.io/) - 2023.01 ~
 - 🌏 Open Source Contribution Academy, [OSCA](https://www.contribution.ac/), PyTorch and PyTorch Litghtning mentee - 2023.07 ~
 - 🧑🏻‍💻 Naver Connect Foundation, [Boostcamp AI Tech 4th NLP](https://boostcamp.connect.or.kr/program_ai.html) completion - 2022.09 ~ 2023.02
 - 🎓 Bachelor of Arts in English Language and Literature - 2022.08
