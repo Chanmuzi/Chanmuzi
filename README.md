@@ -19,48 +19,38 @@ I'm a super passionate Data Scientist/AI researcher from Korea 🇰🇷
 <div markdown="1">
   
 ---  
-1. ***[Visual Question Answering(VQA)](https://dacon.io/competitions/official/236118/overview/description)*** - 2023.07
-- regression, multi-modal task
-- English data
-- Dacon's competition
-- <ins>__design and operate the competition (as manager)__</ins>
+1. ***Development of Educational Chatbot Services Using LLM / Dacon*** - Oct. 2023 ~ Present
+- Leading the integration of chatbots in machine learning educational content
+- Creating AI services for quantitative assessments adn qualitative feedback, incorporating API-based solutions
+
+--- 
+2. ***AI vs. Human Text Discrmination Competition Design & Management / Dacon*** - Sep. 2023 ~ Nov. 2023
+- Initiated and managed a competition on AI-generated content detection using the OpenAI API
+- Crafted a novel dataset by modifying colloquial Twitter texts for diverse epressions
+- Established a baseline and explored various solution strategies
+
+---
+3. ***Visual Question Answering (VQA) / Dacon*** - Jun. 2023 ~ Aug. 2023
+- Orchestrated a VQA competition, handling dataset preprocessing and competition structuring
+- multi-modal task, accuracy metric
+- Reviewed and verified competition methodologies and outcomes, ensuring fairness and data integrity
+
+---
+4. ***Document Visual Question Answering (DocVQA)*** - Dec. 2022 ~ Feb. 2023
+- Collaborated in a corporate-linked project with UpStage
+- Addressed the challenge of aligning visual (bbox) and linguistic information (text) in DocVQA tasks
+- Developed attention maps to visually represent model focus areas, addressing weakness in diagram and figure interpretation
   
 ---
-2. ***AI generated Image Classification*** - 2023.06
-- binary classification
-- AI-connect's competition
-- indivisual participation
----
-3. ***ChatGPT Prompt Engineering*** - 2023.04
-- NLP, multi-classification task
-- English data
-- Dacon's competition
-- indivisual participation
----
-4. ***Document Visual Question Answering(DocVQA)*** - 2022.01
-- multi-modal QA task
-- English data
-- corporate associated project with Upstage
-- Naver Connect Foundation, Boostcamp AI Tech 4th NLP track
----  
-5. ***Open Domain Question Answering(ODQA)*** - 2022.12
-- Korean data
-- Naver Connect Foundation, Boostcamp AI Tech 4th NLP track
----
-6. ***Korean Law Dataset Build for Relation Extractoin*** - 2022.11
-- Dataset build project
-- Korean law data
-- Naver Connect Foundation, Boostcamp AI Tech 4th NLP track
----
-7. ***Relation Extraction(RE), classification*** - 2022.10
-- multi-classification task
-- Korean data
-- Naver Connect Foundation, Boostcamp AI Tech 4th NLP track
----
-8. ***Semantic Text Similarity(STS)*** - 2022.10
-- regression task
-- Korean data
-- Naver Connect Foundation Boostcamp AI Tech 4th NLP track
+In addition to the above list, I have also undertaken the following NLP tasks: 
+- ChatGPT Prompt Engineering Competition - Apr. 2023
+- Open Domain Question Answering (ODQA) - Dec. 2022
+- building a Korean Law Dataset for Relation Extraction - Nov. 2022
+- Relation Extraction (RE) - Oct. 2022
+- Semantic Text Similarity (STS) - Oct. 2022
+
+These projects have significantly enhanced my foundational skills and knowledge in Natural Language Processing (NLP).
+
 ---
 </div>
 </details>
