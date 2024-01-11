@@ -3,8 +3,8 @@ I'm a super passionate Data Scientist/AI researcher from Korea 🇰🇷
 
 ---
 #### About me
-- 💼 Data Science Team manager at [Dacon](https://dacon.io/) - 2023.05 ~ Present
 - 🤖 5th member of NLP team of AI Society, [DIYA](https://doityourselfai.github.io/) - 2023.01 ~ Present
+- 💼 Data Science Team manager at [Dacon](https://dacon.io/) - 2023.05 ~ 2023.12
 - 🏕️ [Google Machine Learning Bootcamp 4th](https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp-kr-2023) - 2023.09 ~ 2023.11
 - 🌏 Open Source Contribution Academy, [OSCA](https://www.contribution.ac/), PyTorch and PyTorch Lightning mentee - 2023.07 ~ 2023.10
 - 🧑🏻‍💻 Naver Connect Foundation, [Boostcamp AI Tech 4th NLP](https://boostcamp.connect.or.kr/program_ai.html) completion - 2022.09 ~ 2023.02
@@ -19,7 +19,7 @@ I'm a super passionate Data Scientist/AI researcher from Korea 🇰🇷
 <div markdown="1">
   
 ---  
-1. ***Development of Educational Chatbot Services Using LLM / Dacon*** - Oct. 2023 ~ Present
+1. ***Development of Educational Chatbot Services Using LLM / Dacon*** - Oct. 2023 ~ Dec. 2023
 - Leading the integration of chatbots in machine learning educational content
 - Creating AI services for quantitative assessments adn qualitative feedback, incorporating API-based solutions
 
