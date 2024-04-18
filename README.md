@@ -3,6 +3,7 @@ I'm a super passionate Data Scientist/AI researcher from Korea 🇰🇷
 
 ---
 #### About me
+- 🔎 LILAB NLP Research Intern, Chung Ang University (2024.01 ~ 2024.04)
 - 🤖 5th member of NLP team of AI Society, [DIYA](https://doityourselfai.github.io/) - 2023.01 ~ Present
 - 💼 Data Science Team manager at [Dacon](https://dacon.io/) - 2023.05 ~ 2023.12
 - 🏕️ [Google Machine Learning Bootcamp 4th](https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp-kr-2023) - 2023.09 ~ 2023.11
@@ -19,24 +20,29 @@ I'm a super passionate Data Scientist/AI researcher from Korea 🇰🇷
 <div markdown="1">
   
 ---  
-1. ***Development of Educational Chatbot Services Using LLM / Dacon*** - Oct. 2023 ~ Dec. 2023
+1. **RAG-based Law Specialized Chatbot Model / Chung Ang University** - Mar. 2024 ~ April. 2024
+- Establishing baselines for instruction tuning of LLMs
+- Researching evaluation methodologies for LLMs
+
+---
+2. ***Development of Educational Chatbot Services Using LLM / Dacon*** - Oct. 2023 ~ Dec. 2023
 - Leading the integration of chatbots in machine learning educational content
 - Creating AI services for quantitative assessments adn qualitative feedback, incorporating API-based solutions
 
 --- 
-2. ***AI vs. Human Text Discrmination Competition Design & Management / Dacon*** - Sep. 2023 ~ Nov. 2023
+3. ***AI vs. Human Text Discrmination Competition Design & Management / Dacon*** - Sep. 2023 ~ Nov. 2023
 - Initiated and managed a competition on AI-generated content detection using the OpenAI API
 - Crafted a novel dataset by modifying colloquial Twitter texts for diverse epressions
 - Established a baseline and explored various solution strategies
 
 ---
-3. ***Visual Question Answering (VQA) / Dacon*** - Jun. 2023 ~ Aug. 2023
+4. ***Visual Question Answering (VQA) / Dacon*** - Jun. 2023 ~ Aug. 2023
 - Orchestrated a VQA competition, handling dataset preprocessing and competition structuring
 - multi-modal task, accuracy metric
 - Reviewed and verified competition methodologies and outcomes, ensuring fairness and data integrity
 
 ---
-4. ***Document Visual Question Answering (DocVQA)*** - Dec. 2022 ~ Feb. 2023
+5. ***Document Visual Question Answering (DocVQA)*** - Dec. 2022 ~ Feb. 2023
 - Collaborated in a corporate-linked project with UpStage
 - Addressed the challenge of aligning visual (bbox) and linguistic information (text) in DocVQA tasks
 - Developed attention maps to visually represent model focus areas, addressing weakness in diagram and figure interpretation
