@@ -7,9 +7,9 @@ I'm a super passionate Data Scientist/AI researcher from Korea 🇰🇷
 - 🔎 [LILAB] NLP Research Intern, Chung Ang University (2024.01 ~ 2024.04)
 - 🤖 [[DIYA](https://doityourselfai.github.io/)] 5th member of NLP team of AI Society (2023.01 ~ Present)
 - 💼 [[Dacon](https://dacon.io/)] Data Science Team manager (2023.05 ~ 2023.12)
-- 🏕️ [Google Machine Learning Bootcamp 4th](https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp-kr-2023) (2023.09 ~ 2023.11)
-- 🌏 [[OSCA](https://www.contribution.ac/)] Open Source Contribution Academy, PyTorch and PyTorch Lightning mentee (2023.07 ~ 2023.10)
-- 🧑🏻‍💻 [[Boostcamp AI Tech 4th NLP](https://boostcamp.connect.or.kr/program_ai.html)] NLP track completion (2022.09 ~ 2023.02)
+- 🏕️ [Google] [Machine Learning Bootcamp 4th](https://rsvp.withgoogle.com/events/google-machine-learning-bootcamp-kr-2023) (2023.09 ~ 2023.11)
+- 🌏 [[OSSCA](https://www.contribution.ac/)] Open Source Contribution Academy, PyTorch and PyTorch Lightning mentee (2023.07 ~ 2023.10)
+- 🧑🏻‍💻 [[Boostcamp AI Tech](https://boostcamp.connect.or.kr/program_ai.html)] 4th NLP track completion (2022.09 ~ 2023.02)
 - 🎓 [University of Seoul] Bachelor of Arts in English Language and Literature (2022.08)
 - ❤️ I love NLP, especially (s)LLM.
 - 📫 How to reach me: chanmuzi@naver.com
