@@ -1,5 +1,5 @@
 Hello, I'm chanmuzi ☺️  
-I'm a super passionate Data Scientist/AI researcher from Korea 🇰🇷
+I'm a super passionate AI researcher/engineer from Korea 🇰🇷
 
 ---
 #### About me
