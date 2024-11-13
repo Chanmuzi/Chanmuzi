@@ -3,7 +3,7 @@ I'm a super passionate AI researcher/engineer from Korea 🇰🇷
 
 ---
 #### About me
-- 🧑🏻‍💻 [Upstage] AI Research Engineer Intern (2024.05 ~ Present)
+- 🧑🏻‍💻 [Upstage] AI Research Engineer (2024.05 ~ Present)
 - 🔎 [LILAB] NLP Research Intern, Chung Ang University (2024.01 ~ 2024.04)
 - 🤖 [[DIYA](https://doityourselfai.github.io/)] 5th member of NLP team of AI Society (2023.01 ~ Present)
 - 💼 [[Dacon](https://dacon.io/)] Data Science Team manager (2023.05 ~ 2023.12)
